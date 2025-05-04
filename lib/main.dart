@@ -3,9 +3,9 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:final_flutter_project_hangman/utils/game.dart';
-import 'package:final_flutter_project_hangman/widget/figure_image.dart';
-import 'package:final_flutter_project_hangman/ui/pages/start_page.dart';
+import 'package:final_project_crystal/utils/game.dart';
+import 'package:final_project_crystal/widget/figure_image.dart';
+import 'package:final_project_crystal/ui/pages/start_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

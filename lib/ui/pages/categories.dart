@@ -2,8 +2,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:final_flutter_project_hangman/main.dart';
-import 'package:final_flutter_project_hangman/ui/pages/start_page.dart';
+import 'package:final_project_crystal/main.dart';
+import 'package:final_project_crystal/ui/pages/start_page.dart';
 
 class CategoryPage extends StatelessWidget {
   const CategoryPage({super.key});
